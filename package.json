@@ -1,0 +1,51 @@
+{
+  "name": "gtf-nostream",
+  "version": "1.3.1",
+  "description": "utilities to read GTF data",
+  "license": "MIT",
+  "repository": "cmdcolin/gtf-nostream",
+  "main": "dist/index.js",
+  "module": "esm/index.js",
+  "author": {
+    "name": "Colin Diesh",
+    "email": "colin.diesh@gmail.com",
+    "url": "https://github.com/cmdcolin"
+  },
+  "files": [
+    "dist",
+    "esm",
+    "src"
+  ],
+  "scripts": {
+    "test": "vitest",
+    "clean": "rimraf dist esm",
+    "lint": "eslint src test",
+    "docs": "documentation readme src/api.ts --section=API  --shallow && npm run format",
+    "format": "prettier --write .",
+    "prebuild": "npm run clean",
+    "build:esm": "tsc --target es2018 --outDir esm",
+    "build:es5": "tsc --target es2015 --module commonjs --outDir dist",
+    "build": "npm run build:es5 && npm run build:esm",
+    "prepublishOnly": "npm run test run && npm run build",
+    "postversion": "git push --follow-tags"
+  },
+  "keywords": [
+    "bionode",
+    "biojs",
+    "gtf",
+    "genomics"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.14.7",
+    "@typescript-eslint/eslint-plugin": "^8.4.0",
+    "@typescript-eslint/parser": "^8.4.0",
+    "@vitest/coverage-v8": "^2.0.5",
+    "documentation": "^14.0.1",
+    "eslint": "^9.9.1",
+    "prettier": "^3.3.3",
+    "rimraf": "^6.0.1",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.4.0",
+    "vitest": "^2.0.5"
+  }
+}

@@ -1,0 +1,4929 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`can cursorily parse demo.gtf 1`] = `
+[
+  [
+    {
+      "attributes": {
+        "gene_biotype": [
+          ""pseudogene"",
+        ],
+        "gene_id": [
+          ""ENSVPAG00000000407"",
+        ],
+        "gene_source": [
+          ""ensembl"",
+        ],
+        "gene_version": [
+          ""1"",
+        ],
+        "transcript_biotype": [
+          ""pseudogene"",
+        ],
+        "transcript_id": [
+          ""ENSVPAT00000000407"",
+        ],
+        "transcript_source": [
+          ""ensembl"",
+        ],
+        "transcript_version": [
+          ""1"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000004844"",
+              ],
+              "exon_number": [
+                ""1"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107715,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107689,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000004847"",
+              ],
+              "exon_number": [
+                ""2"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107812,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107717,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000004849"",
+              ],
+              "exon_number": [
+                ""3"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107877,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107824,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000156282"",
+              ],
+              "exon_number": [
+                ""4"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107895,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107881,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000188321"",
+              ],
+              "exon_number": [
+                ""5"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107917,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107900,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000004854"",
+              ],
+              "exon_number": [
+                ""6"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107987,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107919,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 107987,
+      "featureType": "transcript",
+      "frame": null,
+      "score": null,
+      "seq_name": "GeneScaffold_1",
+      "source": "ensembl",
+      "start": 107689,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "gene_biotype": [
+          ""protein_coding"",
+        ],
+        "gene_id": [
+          ""ENSVPAG00000009976"",
+        ],
+        "gene_name": [
+          ""RNPS1"",
+        ],
+        "gene_source": [
+          ""ensembl"",
+        ],
+        "gene_version": [
+          ""1"",
+        ],
+        "transcript_biotype": [
+          ""protein_coding"",
+        ],
+        "transcript_id": [
+          ""ENSVPAT00000009977"",
+        ],
+        "transcript_name": [
+          ""RNPS1-201"",
+        ],
+        "transcript_source": [
+          ""ensembl"",
+        ],
+        "transcript_version": [
+          ""1"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120008"",
+              ],
+              "exon_number": [
+                ""1"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 42373,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 42303,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 42373,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 42303,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 42373,
+            "featureType": "start_codon",
+            "frame": "0",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 42371,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120009"",
+              ],
+              "exon_number": [
+                ""2"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 42064,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41909,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""2"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 42064,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41909,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120011"",
+              ],
+              "exon_number": [
+                ""3"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 41278,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41149,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""3"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 41278,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41149,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120015"",
+              ],
+              "exon_number": [
+                ""4"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 41147,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41086,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""4"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 41147,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41086,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120018"",
+              ],
+              "exon_number": [
+                ""5"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 40778,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 40676,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""5"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 40778,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 40676,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120019"",
+              ],
+              "exon_number": [
+                ""6"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 40368,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 40215,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""6"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 40368,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 40215,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120020"",
+              ],
+              "exon_number": [
+                ""7"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 38136,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 37995,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""7"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 38136,
+            "featureType": "CDS",
+            "frame": "2",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 37995,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120021"",
+              ],
+              "exon_number": [
+                ""8"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 37295,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 37196,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""8"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 37295,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 37199,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""8"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 37198,
+            "featureType": "stop_codon",
+            "frame": "0",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 37196,
+            "strand": "-",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 42373,
+      "featureType": "transcript",
+      "frame": null,
+      "score": null,
+      "seq_name": "GeneScaffold_10",
+      "source": "ensembl",
+      "start": 37196,
+      "strand": "-",
+    },
+  ],
+]
+`;
+
+exports[`can cursorily parse volvox.sorted.gtf 1`] = `
+[
+  [
+    {
+      "attributes": {
+        "gene_id": [
+          ""EDEN"",
+        ],
+        "gene_name": [
+          ""EDEN"",
+        ],
+        "transcript_id": [
+          ""EDEN.1"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1050,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1200,
+            "featureType": "five_prime_UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1050,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1201,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 3902,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 3000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 3902,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 3000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 7608,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "three_prime_UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7609,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 9000,
+      "featureType": "transcript",
+      "frame": null,
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "example",
+      "start": 1050,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "gene_id": [
+          ""EDEN"",
+        ],
+        "gene_name": [
+          ""EDEN"",
+        ],
+        "transcript_id": [
+          ""EDEN.2"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1050,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1200,
+            "featureType": "five_prime_UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1050,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1201,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 7608,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "three_prime_UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7609,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 9000,
+      "featureType": "transcript",
+      "frame": null,
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "example",
+      "start": 1050,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "gene_id": [
+          ""EDEN"",
+        ],
+        "gene_name": [
+          ""EDEN"",
+        ],
+        "transcript_id": [
+          ""EDEN.3"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1300,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "five_prime_UTR",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1300,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 3902,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 3000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 3300,
+            "featureType": "five_prime_UTR",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 3000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 3902,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 3301,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 7600,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "three_prime_UTR",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7601,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 9000,
+      "featureType": "transcript",
+      "frame": null,
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "example",
+      "start": 1300,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "transcript_id": [
+          ""Apple1"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""Apple1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 11500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "bare_predicted",
+            "start": 10000,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 11500,
+      "featureType": "transcript",
+      "frame": "0",
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "bare_predicted",
+      "start": 10000,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "transcript_id": [
+          ""cds-Apple2"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""cds-Apple2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 13800,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "predicted",
+            "start": 13500,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""cds-Apple2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 15500,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "predicted",
+            "start": 15000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""cds-Apple2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 17000,
+            "featureType": "CDS",
+            "frame": "2",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "predicted",
+            "start": 16500,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 17000,
+      "featureType": "transcript",
+      "frame": "0",
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "predicted",
+      "start": 13500,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "transcript_id": [
+          ""rna-Apple3"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 17999,
+            "featureType": "UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 17400,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 18800,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 17400,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 18800,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 18000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 19500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 19000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 19500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 19000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 21200,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 21000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 23000,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 21000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 23000,
+            "featureType": "UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 21201,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 23000,
+      "featureType": "transcript",
+      "frame": "0",
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "exonerate",
+      "start": 17400,
+      "strand": "+",
+    },
+  ],
+]
+`;
+
+exports[`can parse a string synchronously 1`] = `
+[
+  [
+    {
+      "attributes": {
+        "gene_biotype": [
+          ""pseudogene"",
+        ],
+        "gene_id": [
+          ""ENSVPAG00000000407"",
+        ],
+        "gene_source": [
+          ""ensembl"",
+        ],
+        "gene_version": [
+          ""1"",
+        ],
+        "transcript_biotype": [
+          ""pseudogene"",
+        ],
+        "transcript_id": [
+          ""ENSVPAT00000000407"",
+        ],
+        "transcript_source": [
+          ""ensembl"",
+        ],
+        "transcript_version": [
+          ""1"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000004844"",
+              ],
+              "exon_number": [
+                ""1"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107715,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107689,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000004847"",
+              ],
+              "exon_number": [
+                ""2"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107812,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107717,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000004849"",
+              ],
+              "exon_number": [
+                ""3"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107877,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107824,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000156282"",
+              ],
+              "exon_number": [
+                ""4"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107895,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107881,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000188321"",
+              ],
+              "exon_number": [
+                ""5"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107917,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107900,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000004854"",
+              ],
+              "exon_number": [
+                ""6"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""pseudogene"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000000407"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""pseudogene"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000000407"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 107987,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_1",
+            "source": "ensembl",
+            "start": 107919,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 107987,
+      "featureType": "transcript",
+      "frame": null,
+      "score": null,
+      "seq_name": "GeneScaffold_1",
+      "source": "ensembl",
+      "start": 107689,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "gene_biotype": [
+          ""protein_coding"",
+        ],
+        "gene_id": [
+          ""ENSVPAG00000009976"",
+        ],
+        "gene_name": [
+          ""RNPS1"",
+        ],
+        "gene_source": [
+          ""ensembl"",
+        ],
+        "gene_version": [
+          ""1"",
+        ],
+        "transcript_biotype": [
+          ""protein_coding"",
+        ],
+        "transcript_id": [
+          ""ENSVPAT00000009977"",
+        ],
+        "transcript_name": [
+          ""RNPS1-201"",
+        ],
+        "transcript_source": [
+          ""ensembl"",
+        ],
+        "transcript_version": [
+          ""1"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120008"",
+              ],
+              "exon_number": [
+                ""1"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 42373,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 42303,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 42373,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 42303,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 42373,
+            "featureType": "start_codon",
+            "frame": "0",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 42371,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120009"",
+              ],
+              "exon_number": [
+                ""2"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 42064,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41909,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""2"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 42064,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41909,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120011"",
+              ],
+              "exon_number": [
+                ""3"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 41278,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41149,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""3"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 41278,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41149,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120015"",
+              ],
+              "exon_number": [
+                ""4"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 41147,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41086,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""4"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 41147,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 41086,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120018"",
+              ],
+              "exon_number": [
+                ""5"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 40778,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 40676,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""5"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 40778,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 40676,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120019"",
+              ],
+              "exon_number": [
+                ""6"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 40368,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 40215,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""6"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 40368,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 40215,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120020"",
+              ],
+              "exon_number": [
+                ""7"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 38136,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 37995,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""7"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 38136,
+            "featureType": "CDS",
+            "frame": "2",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 37995,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_id": [
+                ""ENSVPAE00000120021"",
+              ],
+              "exon_number": [
+                ""8"",
+              ],
+              "exon_version": [
+                ""1"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 37295,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 37196,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""8"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "protein_id": [
+                ""ENSVPAP00000009285"",
+              ],
+              "protein_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 37295,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 37199,
+            "strand": "-",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "exon_number": [
+                ""8"",
+              ],
+              "gene_biotype": [
+                ""protein_coding"",
+              ],
+              "gene_id": [
+                ""ENSVPAG00000009976"",
+              ],
+              "gene_name": [
+                ""RNPS1"",
+              ],
+              "gene_source": [
+                ""ensembl"",
+              ],
+              "gene_version": [
+                ""1"",
+              ],
+              "transcript_biotype": [
+                ""protein_coding"",
+              ],
+              "transcript_id": [
+                ""ENSVPAT00000009977"",
+              ],
+              "transcript_name": [
+                ""RNPS1-201"",
+              ],
+              "transcript_source": [
+                ""ensembl"",
+              ],
+              "transcript_version": [
+                ""1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 37198,
+            "featureType": "stop_codon",
+            "frame": "0",
+            "score": null,
+            "seq_name": "GeneScaffold_10",
+            "source": "ensembl",
+            "start": 37196,
+            "strand": "-",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 42373,
+      "featureType": "transcript",
+      "frame": null,
+      "score": null,
+      "seq_name": "GeneScaffold_10",
+      "source": "ensembl",
+      "start": 37196,
+      "strand": "-",
+    },
+  ],
+]
+`;
+
+exports[`can parse another string synchronously 1`] = `
+[
+  [
+    {
+      "attributes": {
+        "gene_id": [
+          ""EDEN"",
+        ],
+        "gene_name": [
+          ""EDEN"",
+        ],
+        "transcript_id": [
+          ""EDEN.1"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1050,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 1500,
+      "featureType": "transcript",
+      "frame": null,
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "example",
+      "start": 1050,
+      "strand": "+",
+    },
+  ],
+]
+`;
+
+exports[`can parse volvox.sorted.gtf 1`] = `
+[
+  [
+    {
+      "attributes": {
+        "gene_id": [
+          ""EDEN"",
+        ],
+        "gene_name": [
+          ""EDEN"",
+        ],
+        "transcript_id": [
+          ""EDEN.1"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1050,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1200,
+            "featureType": "five_prime_UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1050,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1201,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 3902,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 3000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 3902,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 3000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 7608,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "three_prime_UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7609,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 9000,
+      "featureType": "transcript",
+      "frame": null,
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "example",
+      "start": 1050,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "gene_id": [
+          ""EDEN"",
+        ],
+        "gene_name": [
+          ""EDEN"",
+        ],
+        "transcript_id": [
+          ""EDEN.2"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1050,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1200,
+            "featureType": "five_prime_UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1050,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1201,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 7608,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "three_prime_UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7609,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 9000,
+      "featureType": "transcript",
+      "frame": null,
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "example",
+      "start": 1050,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "gene_id": [
+          ""EDEN"",
+        ],
+        "gene_name": [
+          ""EDEN"",
+        ],
+        "transcript_id": [
+          ""EDEN.3"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1300,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 1500,
+            "featureType": "five_prime_UTR",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 1300,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 3902,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 3000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 3300,
+            "featureType": "five_prime_UTR",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 3000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 3902,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 3301,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 5500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 5000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 7600,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "gene_id": [
+                ""EDEN"",
+              ],
+              "gene_name": [
+                ""EDEN"",
+              ],
+              "transcript_id": [
+                ""EDEN.3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 9000,
+            "featureType": "three_prime_UTR",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "example",
+            "start": 7601,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 9000,
+      "featureType": "transcript",
+      "frame": null,
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "example",
+      "start": 1300,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "transcript_id": [
+          ""Apple1"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""Apple1"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 11500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "bare_predicted",
+            "start": 10000,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 11500,
+      "featureType": "transcript",
+      "frame": "0",
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "bare_predicted",
+      "start": 10000,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "transcript_id": [
+          ""cds-Apple2"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""cds-Apple2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 13800,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "predicted",
+            "start": 13500,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""cds-Apple2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 15500,
+            "featureType": "CDS",
+            "frame": "1",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "predicted",
+            "start": 15000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""cds-Apple2"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 17000,
+            "featureType": "CDS",
+            "frame": "2",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "predicted",
+            "start": 16500,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 17000,
+      "featureType": "transcript",
+      "frame": "0",
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "predicted",
+      "start": 13500,
+      "strand": "+",
+    },
+  ],
+  [
+    {
+      "attributes": {
+        "transcript_id": [
+          ""rna-Apple3"",
+        ],
+      },
+      "child_features": [
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 17999,
+            "featureType": "UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 17400,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 18800,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 17400,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 18800,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 18000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 19500,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 19000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 19500,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 19000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 21200,
+            "featureType": "CDS",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 21000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 23000,
+            "featureType": "exon",
+            "frame": null,
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 21000,
+            "strand": "+",
+          },
+        ],
+        [
+          {
+            "attributes": {
+              "transcript_id": [
+                ""rna-Apple3"",
+              ],
+            },
+            "child_features": [],
+            "derived_features": [],
+            "end": 23000,
+            "featureType": "UTR",
+            "frame": "0",
+            "score": null,
+            "seq_name": "ctgA",
+            "source": "exonerate",
+            "start": 21201,
+            "strand": "+",
+          },
+        ],
+      ],
+      "derived_features": [],
+      "end": 23000,
+      "featureType": "transcript",
+      "frame": "0",
+      "score": null,
+      "seq_name": "ctgA",
+      "source": "exonerate",
+      "start": 17400,
+      "strand": "+",
+    },
+  ],
+]
+`;

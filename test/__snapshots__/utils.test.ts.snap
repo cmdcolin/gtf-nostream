@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GTF utils test parsing/formating a gtf feature 1`] = `
+{
+  "attributes": {
+    "gene_id": [
+      ""EDEN"",
+    ],
+    "gene_name": [
+      ""EDEN"",
+    ],
+    "transcript_id": [
+      ""EDEN.3"",
+    ],
+  },
+  "end": 3902,
+  "featureType": "CDS",
+  "frame": "0",
+  "score": null,
+  "seq_name": "ctgA",
+  "source": "example",
+  "start": 3301,
+  "strand": "+",
+}
+`;
+
+exports[`GTF utils test parsing/formatting items and attributes 1`] = `
+{
+  "gene_id": [
+    ""EDEN"",
+  ],
+  "gene_name": [
+    ""EDEN"",
+  ],
+  "transcript_id": [
+    ""EDEN.3"",
+  ],
+}
+`;
+
+exports[`GTF utils test parsing/formatting items and attributes 2`] = `"transcript_id EDEN.3; gene_id EDEN; gene_name EDEN;"`;
