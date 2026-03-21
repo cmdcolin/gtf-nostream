@@ -13,11 +13,8 @@ node.js stream module usage
 ## Usage
 
 ```js
-const { parseStringSync } = require('gtf-nostream')
-// or in ES6 (recommended)
 import { parseStringSync } from 'gtf-nostream'
-
-const fs = require('fs')
+import fs from 'fs'
 
 // parse a string of gtf synchronously
 const stringOfGTF = fs.readFileSync('my_annotations.gtf', 'utf8')

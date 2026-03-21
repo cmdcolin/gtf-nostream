@@ -76,7 +76,7 @@ export function escapeColumn(s) {
  * @returns {Object}
  */
 export function parseAttributes(attrString) {
-  if (!(attrString && attrString.length) || attrString === '.') {
+  if (!(attrString?.length) || attrString === '.') {
     return {}
   }
 
@@ -91,7 +91,7 @@ export function parseAttributes(attrString) {
         return
       }
       const attr = attribute.trim().split(' ')
-      if (!(attr[1] && attr[1].length)) {
+      if (!(attr[1]?.length)) {
         return
       }
 
@@ -242,7 +242,7 @@ function _formatSingleFeature(f, seenFeature) {
     return ''
   }
 
-  // eslint-disable-next-line no-param-reassign
+   
   seenFeature[formattedString] = true
   return formattedString
 }

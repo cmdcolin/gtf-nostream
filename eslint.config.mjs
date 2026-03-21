@@ -29,6 +29,7 @@ export default tseslint.config(
 
       'no-underscore-dangle': 0,
       curly: 'error',
+      '@typescript-eslint/consistent-type-imports': 'error',
       '@typescript-eslint/no-explicit-any': 0,
       '@typescript-eslint/explicit-module-boundary-types': 0,
       '@typescript-eslint/ban-ts-comment': 0,
